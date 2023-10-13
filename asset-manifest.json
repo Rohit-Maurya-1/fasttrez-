@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fasttrez-/static/css/main.17296f80.css",
+    "main.js": "/fasttrez-/static/js/main.954af20d.js",
+    "static/js/787.c1112931.chunk.js": "/fasttrez-/static/js/787.c1112931.chunk.js",
+    "static/media/header1.png": "/fasttrez-/static/media/header1.169c20bb6db51b7cde47.png",
+    "static/media/header3.png": "/fasttrez-/static/media/header3.161be8f0d922de1ef88d.png",
+    "static/media/header2.png": "/fasttrez-/static/media/header2.f6d498c5b288652c68f7.png",
+    "static/media/footer-img.jpg": "/fasttrez-/static/media/footer-img.853525406b164704e310.jpg",
+    "static/media/bg-techno.jpg": "/fasttrez-/static/media/bg-techno.6cadd8f62f30f25d77d2.jpg",
+    "index.html": "/fasttrez-/index.html",
+    "main.17296f80.css.map": "/fasttrez-/static/css/main.17296f80.css.map",
+    "main.954af20d.js.map": "/fasttrez-/static/js/main.954af20d.js.map",
+    "787.c1112931.chunk.js.map": "/fasttrez-/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17296f80.css",
+    "static/js/main.954af20d.js"
+  ]
+}
